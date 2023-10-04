@@ -170,16 +170,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/datasets-savoy-stopwords-sp-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/datasets-savoy-stopwords-sp-cli
 
-[test-image]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/actions/workflows/test.yml?query=branch:v0.1.1
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-savoy-stopwords-sp/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/datasets-savoy-stopwords-sp?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-savoy-stopwords-sp.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/datasets-savoy-stopwords-sp/main
 
 -->
 
@@ -190,17 +190,17 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1#cli
-[cli-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/tree/cli
-[@stdlib/datasets-savoy-stopwords-sp]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/tree/main
+[cli-section]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp#cli
+[cli-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/tree/cli
+[@stdlib/datasets-savoy-stopwords-sp]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/tree/deno
-[umd-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/tree/umd
-[esm-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/tree/esm
-[branches-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp@v0.1.1/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/tree/deno
+[umd-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/tree/umd
+[esm-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/tree/esm
+[branches-url]: https://github.com/stdlib-js/datasets-savoy-stopwords-sp/blob/main/branches.md
 
 [stopwords]: https://en.wikipedia.org/wiki/Stop_words
 
